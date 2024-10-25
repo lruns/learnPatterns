@@ -10,7 +10,7 @@ import java.util.Objects;
 @Setter
 @Getter
 @NoArgsConstructor
-public abstract class Shape {
+public abstract class Shape implements Cloneable {
     private int x;
     private int y;
     private String color;

@@ -1,5 +1,9 @@
 package org.example.creational.factory;
 
+import org.example.creational.factory.watch.DigitalWatch;
+import org.example.creational.factory.watch.RomanWatch;
+import org.example.creational.factory.watch.Watch;
+
 public interface WatchFactory {
     Watch createWatch();
 

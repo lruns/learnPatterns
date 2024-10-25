@@ -1,5 +1,6 @@
 package org.example.creational.factory;
 
+import org.example.creational.factory.watch.Watch;
 import org.junit.jupiter.api.Test;
 
 import static org.example.creational.factory.WatchFactory.getWatchFactory;
