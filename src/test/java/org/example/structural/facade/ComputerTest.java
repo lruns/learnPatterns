@@ -1,6 +1,5 @@
-package org.example.behavioral;
+package org.example.structural.facade;
 
-import org.example.behavioral.facade.Computer;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

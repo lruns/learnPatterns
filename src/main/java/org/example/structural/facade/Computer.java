@@ -1,4 +1,4 @@
-package org.example.behavioral.facade;
+package org.example.structural.facade;
 
 import lombok.Getter;
 
